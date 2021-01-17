@@ -24,11 +24,11 @@ img{
   background: url(https://c.static-nike.com/a/images/f_auto/dpr_2.0/h_300,c_limit/dcbbd85f-a184-446b-8ef4-02a5af913d75/nike-run-club-app.jpg);
   background-attachment: fixed;
   width: 100%;
-  height: 300px;
+  height: 500px;
   position: relative;
   overflow: hidden;
   margin: 0;
-  background-size:contain;
+  background-size:100vw, 100;
 }
 #header > header {
   position: absolute;
